@@ -16,6 +16,7 @@
             prd=prd*i;
         }
 
+        printf("%d",prd);
+
      }
-    return 0;
- }
+
