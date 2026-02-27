@@ -15,8 +15,6 @@
         if(sum==i){
             prd=prd*i;
         }
-
         printf("%d",prd);
-
      }
 
